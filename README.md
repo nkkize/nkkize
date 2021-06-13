@@ -12,6 +12,10 @@
 [<img align="left" alt="nkkize | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nkkize | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+### Stats:
+<img src = "https://github-readme-stats.vercel.app/api?username=nkkize&show_icons=true&theme=synthwave&line_height=33&count_private=true"> 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nkkize&theme=synthwave">
+
 [Narender Kumar]: https://narender.is-a.dev
 [website]: https://narender.is-a.dev
 [linkedin]: https://www.linkedin.com/in/nkkize/
