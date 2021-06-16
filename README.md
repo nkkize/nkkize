@@ -17,7 +17,7 @@
 ### Stats:
 <img src = "https://github-readme-stats.vercel.app/api?username=nkkize&show_icons=true&theme=synthwave&line_height=33&count_private=true"> 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nkkize&theme=synthwave">
-<img src = "https://www.gitmemory.com/nkkize">
+<iframe src = "https://www.gitmemory.com/nkkize">
 
 [Narender Kumar]: https://narender.is-a.dev
 [website]: https://narender.is-a.dev
