@@ -38,12 +38,8 @@
 </p>
 
 ### My contribution streak 🔥
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nkkize&theme=dark)](https://git.io/streak-stats)
 
-<p align="center">
-  <a href="https://github.com/nkkize/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkkize#version3"/>
-  </a>
-</p>
 
 ### Visitor's count :eyes:
 <p align="center"><img src="https://profile-counter.glitch.me/{nkkize}/count.svg" alt="mkkize :: Visitor's Count" /></p>
