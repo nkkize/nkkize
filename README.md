@@ -37,6 +37,14 @@
 </a>
 </p>
 
+### My contribution streak 🔥
+
+<p align="center">
+  <a href="https://github.com/nkkize/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkkize#version3"/>
+  </a>
+</p>
+
 ### Visitor's count :eyes:
 <p align="center"><img src="https://profile-counter.glitch.me/{nkkize}/count.svg" alt="mkkize :: Visitor's Count" /></p>
 
@@ -79,4 +87,4 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
-<hr>
+###### 💾 EOF
