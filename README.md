@@ -15,12 +15,10 @@
 <br />
 
 ### Stats: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<img src = "https://github-readme-stats.vercel.app/api?username=nkkize&show_icons=true&theme=synthwave&line_height=33&count_private=true"> 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nkkize&theme=synthwave">
-
+<br><br><br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nkkize&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=synthwave" alt="ovi" width="410" /></p>
-<br>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nkkize&show_icons=true&locale=en&theme=synthwave" alt="ovi" width="410" /></p>
+<br><br><br><br>
 
 ### Git profile Trophies: <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />
 <img src="https://github-profile-trophy.vercel.app/?username=nkkize&theme=juicyfresh&no-bg=true" />
