@@ -47,10 +47,6 @@
  </a>
 </p>
 
-
-### Visitor's count :eyes:
-<p align="center"><img src="https://profile-counter.glitch.me/{nkkize}/count.svg" alt="mkkize :: Visitor's Count" /></p>
-
 ### Git profile Trophies: <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />
 <img src="https://github-profile-trophy.vercel.app/?username=nkkize&theme=juicyfresh&no-bg=true" />
 
@@ -89,5 +85,8 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
+
+### Thanks for visiting ❤️
+<p align="center"><img src="https://profile-counter.glitch.me/{nkkize}/count.svg" alt="mkkize :: Visitor's Count" /></p>
 
 ###### 💾 EOF
