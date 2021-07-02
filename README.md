@@ -40,7 +40,7 @@
 ### My contribution streak 🔥
 <p align="center">
  <a href="https://github.com/nkkize">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkkize&theme=dark"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nkkize&theme=algolia"/>
  </a>
 </p>
 
