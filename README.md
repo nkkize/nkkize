@@ -28,7 +28,6 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
   <code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg
 "> </code>
-  <hr>
 
 ### Stats: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="center">
@@ -48,6 +47,8 @@
 [website]: https://narender.is-a.dev
 [linkedin]: https://www.linkedin.com/in/nkkize/
 [twitter]: https://twitter.com/nkkize
+
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
