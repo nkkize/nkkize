@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a project in cyber security domain.
+- 🔭 I’m currently working on a project in cyber security domain.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👯 I’m looking to collaborate on any interesting project in any emerging technology. 
 - 📫 How to reach me: [twitter]
 - 😄 Pronouns: he/his
