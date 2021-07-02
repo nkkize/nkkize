@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a project in cyber security domain.
 - 👯 I’m looking to collaborate on any interesting project in any emerging technology. 
 - 📫 How to reach me: [twitter]
-- 😄 Pronouns: he/his/him
+- 😄 Pronouns: he/his
 - ⚡ Fun fact: I am good with naming variables 😂
 
 ### Connect with me:
@@ -14,7 +14,7 @@
 
 <br />
 
-### Stats:
+### Stats: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <img src = "https://github-readme-stats.vercel.app/api?username=nkkize&show_icons=true&theme=synthwave&line_height=33&count_private=true"> 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nkkize&theme=synthwave">
 
