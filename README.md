@@ -15,8 +15,12 @@
 <br />
 
 ### Stats: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<img src = "https://github-readme-stats.vercel.app/api?username=nkkize&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"> 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nkkize&show_icons=true&locale=en&theme=chartreuse-dark">
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nkkize&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nkkize&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ### Git profile Trophies: <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />
 <img src="https://github-profile-trophy.vercel.app/?username=nkkize&theme=juicyfresh&no-bg=true" />
