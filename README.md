@@ -6,6 +6,9 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I am good with naming variables 😂
 
+### Git profile Trophies: <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />
+<img src="https://github-profile-trophy.vercel.app/?username=nkkize&theme=juicyfresh&no-bg=true" />
+
 ### Connect with me:
 
 [<img align="left" alt="https://narender.is-a.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
