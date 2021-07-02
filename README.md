@@ -19,7 +19,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nkkize&show_icons=true&locale=en&theme=chartreuse-dark">
 
 ### Git profile Trophies: <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />
-<img src="https://github-profile-trophy.vercel.app/?username=nkkize&theme=chartreuse-dark&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=nkkize&theme=juicyfresh&no-bg=true" />
 
 [Narender Kumar]: https://narender.is-a.dev
 [website]: https://narender.is-a.dev
