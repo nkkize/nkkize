@@ -38,8 +38,3 @@
 [website]: https://narender.is-a.dev
 [linkedin]: https://www.linkedin.com/in/nkkize/
 [twitter]: https://twitter.com/nkkize
-
-### Thanks for visiting ❤️
-<p align="center"><img src="https://profile-counter.glitch.me/{nkkize}/count.svg" alt="mkkize :: Visitor's Count" /></p>
-
-###### 💾 EOF
