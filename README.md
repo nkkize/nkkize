@@ -1,21 +1,3 @@
-<p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
-
-### Hi there 👋
-
-- 🔭 I’m currently working on a project in cyber security domain.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 👯 I’m looking to collaborate on any interesting project in any emerging technology. 
-- 📫 How to reach me: [twitter]
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: I am good with naming variables 😂
-
-### Connect with me:
-
-[<img align="left" alt="https://narender.is-a.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="nkkize | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nkkize | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-</br>
-
 ### Stats: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <p align="center">
 <a href="https://github.com/nkkize">
@@ -31,8 +13,10 @@
  </a>
 </p>
 
-### Git profile Trophies: <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />
-<img src="https://github-profile-trophy.vercel.app/?username=nkkize&theme=juicyfresh&no-bg=true" />
+[<img align="left" alt="https://narender.is-a.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="nkkize | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nkkize | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+</br>
 
 [Narender Kumar]: https://narender.is-a.dev
 [website]: https://narender.is-a.dev
