@@ -1,11 +1,12 @@
 Hey, I'm Narender 👋
 
- I am a software engineer with a passion for the Java ecosystem, Web Services, Spring, JavaScript, NodeJS, React, AWS and, of course, Security. 
+ I am a software engineer with a passion for the Java ecosystem, Web Services, Spring, JavaScript, NodeJS and, of course, Security. 
 
  I'm generally hangging around on Twitter.
 
  Cheers,  
- Narender :)
+ Narender :)  
+ </br>
 [<img align="left" alt="https://narender.is-a.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="nkkize | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 </br>
